@@ -1,0 +1,28 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000q\u0000u\u0000i\u0000z\u0000b\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zokirjs/quizbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zokirjs/quizbot/issues"
+  },
+  "homepage": "https://github.com/Zokirjs/quizbot#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mysql": "^2.18.1",
+    "telegraf": "^4.7.0"
+  }
+}
